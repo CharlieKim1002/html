@@ -6,7 +6,6 @@
 # 사용 기술
 HTML5 / CSS3 / JAVASCRIPT
 
-#작업 멤버
 개인 작업
 
 # 완성본
